@@ -6,7 +6,6 @@ authors: Parth Sakpal & Laksh Chopra
 """
 
 import pygame
-#from Window import Window
 import cv2
 import numpy as np
 import mediapipe as mp
